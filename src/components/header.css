@@ -1,0 +1,27 @@
+.header{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding:10px 20px;
+    background-color:#c8d1d6;
+    color:#fff;
+}
+.logo{
+    height:100px;
+}
+.logoimg{
+    width:70vw;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.hourly{
+    width:10vw;
+}
+.weekly{
+    width:10vw;
+}
+.login{
+    width: 10vw;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rajithagumma.github.io/weather-app/static/css/main.2c3190f4.css",
+    "main.js": "/rajithagumma.github.io/weather-app/static/js/main.345b11a2.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/rajithagumma.github.io/weather-app/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/sunset.jpg": "/rajithagumma.github.io/weather-app/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "static/media/logo.png": "/rajithagumma.github.io/weather-app/static/media/logo.5e7df4fd6f83339af72d.png",
+    "static/media/cloud.png": "/rajithagumma.github.io/weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/rajithagumma.github.io/weather-app/index.html",
+    "main.2c3190f4.css.map": "/rajithagumma.github.io/weather-app/static/css/main.2c3190f4.css.map",
+    "main.345b11a2.js.map": "/rajithagumma.github.io/weather-app/static/js/main.345b11a2.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/rajithagumma.github.io/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3190f4.css",
+    "static/js/main.345b11a2.js"
+  ]
+}
